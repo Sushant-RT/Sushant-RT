@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hello! My name is Sushant Mehra,  I'm a Frontend Developer from India<br><br>- 👩🏻‍💻 Currently working as Frontend Intern in Rocket-tutor</p>
+<p align="left">Hello! My name is Sushant Mehra,  I'm a Frontend Developer from India.</p>
 
 ###
 
